@@ -1,9 +1,17 @@
 ﻿OAuth2 PHP Redis Driver
 =====================
-基于Predis客户端做的OAuth2.0服务器端数据库驱动
+Server side Driver of redis for OAuth2 ( based on Predis client )
 * * *
 
 Description
+-----------
+
+> 1. Authorization Code
+> 2. Resource Owner Password Credentials
+> 3. Refreshing an Access Token
+
+
+See Also
 -----------
 
 [OAuth2-php](http://code.google.com/p/oauth2-php/)
